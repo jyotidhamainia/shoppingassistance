@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>this is shoppinf assistance</title>
+
+</head>
+<body>
+<h1><strong>welcome to Shopping Assistance</h1>
+</body>
+
+</html>
